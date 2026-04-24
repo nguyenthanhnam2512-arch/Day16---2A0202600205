@@ -1,6 +1,4 @@
-# Day 17 Submission
-
-*(Nội dung hoàn chỉnh tương đương `Day17-Version-B.md` — dùng cho link GitHub trên LMS.)*
+# Day 17 — Version B (BTVN / GitHub)
 
 **Student:** Nguyễn Thành Nam  
 **Date:** 23/04/2026  
@@ -171,4 +169,4 @@ Kế toán tổng hợp/ chủ DN B2B nhỏ **mất 5–10 giờ/tuần** cho vi
 
 ---
 
-*Phiên bản **B (BTVN)** — 23/04/2026. **Version A** (`Day17-Version-A.md`) nộp snapshot sáng trên LMS — **không chỉnh A sau khi nộp**; so sánh A→B dùng rubric / AI critique trong mục 5.*
+*Phiên bản **B** — 23/04/2026. Nội dung **trùng** `submission.md` trên repo GitHub. **Version A** (`Day17-Version-A.md`) nộp snapshot sáng trên LMS — **không chỉnh A sau khi nộp**; file này thể hiện cải thiện so với A (stress-test, rubric A→B).*
